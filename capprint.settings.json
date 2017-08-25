@@ -1,0 +1,15 @@
+{
+  "videoleft": 305,
+  "videoright": 1792,
+  "videotop": 72,
+  "videobottom": 500,
+  "pageheight": 2150,
+  "bgcolor": [ 152, 152, 152 ],
+  "bgcolorerror": 30,
+  "bgwidth": 2,
+  "edgeignore": 30,
+  "outputstring": "./output/image15_%04d.jpg",
+  "smallestdelta": 50,
+  "firstindex": 0,
+  "videofile": "15.mp4"
+}
